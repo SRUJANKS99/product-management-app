@@ -8,6 +8,37 @@ A full-stack web application with user authentication and complete product manag
 
 ## 📋 Assignment Requirements Completed
 
+## 📸 Screenshots
+
+### 1. Login Page
+![Login Page](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Login.jpg)
+*User authentication interface with "Invalid credentials" error message shown*
+
+### 2. Add Product Form
+![Add Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Add%20new%20product.jpg)
+*Complete form with Product Name, Price, Category, and Description fields*
+
+### 3. Products Grid View
+![Products Grid](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Filter%20a%20product.jpg)
+*Grid layout showing Nike Air Max Sneakers (₹8999.19), Samsung Galaxy S24 (₹89999.00), and other products with category badges and action buttons*
+
+### 4. Category Filter
+![Category Filter](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Register.jpg)
+*Filter dropdown demonstrating category-based product filtering functionality*
+
+### 5. Delete Confirmation
+![Delete Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/delete%20a%20product.jpg)
+*Browser confirmation dialog before product deletion*
+
+### 6. Edit Product Form
+![Edit Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/edit%20a%20product.jpg)
+*Edit interface showing existing product data ready for modification*
+
+### 7. Success Message
+![Success Message](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Add%20new%20product.jpg)
+*Success notification after product update operation*
+
+
 ### ✅ 1. Authentication Module
 - User registration system with email and username validation
 - User login system with secure password handling
@@ -206,39 +237,6 @@ Application will open at `http://localhost:3000`
 - Responsive design works on mobile, tablet, and desktop
 - Clean and modern UI with gradient backgrounds
 
----
-
-## 📸 Screenshots
-
-### 1. Login Page
-![Login Page - Shows authentication form with username and password fields](screenshot-placeholder-1)
-*User authentication interface with "Invalid credentials" error message shown*
-
-### 2. Add Product Form
-![Add Product - Form showing Nike Air Max Sneakers entry](screenshot-placeholder-2)
-*Complete form with Product Name, Price, Category, and Description fields*
-
-### 3. Products Grid View
-![Products Grid - Displaying multiple products with category filters](screenshot-placeholder-3)
-*Grid layout showing Nike Air Max Sneakers (₹8999.19), Samsung Galaxy S24 (₹89999.00), and other products with category badges and action buttons*
-
-### 4. Category Filter
-![Category Filter - Dropdown showing Footwear, Electronics, and book categories](screenshot-placeholder-4)
-*Filter dropdown demonstrating category-based product filtering functionality*
-
-### 5. Delete Confirmation
-![Delete Product - Confirmation dialog asking "Are you sure you want to delete this product?"](screenshot-placeholder-5)
-*Browser confirmation dialog before product deletion*
-
-### 6. Edit Product Form
-![Edit Product - Pre-populated form for Nike Air Max Sneakers](screenshot-placeholder-6)
-*Edit interface showing existing product data ready for modification*
-
-### 7. Success Message
-![Success Message - Green notification showing "Product updated successfully!"](screenshot-placeholder-7)
-*Success notification after product update operation*
-
----
 
 ## 🔐 Security Features
 
