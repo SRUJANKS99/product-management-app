@@ -11,28 +11,34 @@ A full-stack web application with user authentication and complete product manag
 ## 📸 Screenshots
 
 ### 1. Login Page
-![Login Page](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Login.jpg)
-**User authentication interface **
+![Login Page](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Login.jpg)  
+**User authentication interface**  
+---
 
 ### 2. Register 
-![Add Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Register.jpg)
-**register with user name ,email and password**
+!Registration page](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Register.jpg)  
+**Register with username, email, and password**  
+---
 
 ### 3. Add Product Form
-![Add Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Add%20new%20product.jpg)
-**Complete form with Product Name, Price, Category, and Description fields**
+![Add Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Add%20new%20product.jpg)  
+**Complete form with Product Name, Price, Category, and Description fields**  
+---
 
 ### 4. Category Filter
-![Category Filter](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Filter%20a%20product.jpg)
-**Filter dropdown demonstrating category-based product filtering functionality**
+![Category Filter](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/Filter%20a%20product.jpg)  
+**Filter dropdown demonstrating category-based product filtering functionality**  
+---
 
 ### 5. Delete Confirmation
-![Delete Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/delete%20a%20product.jpg)
-**Browser confirmation dialog before product deletion**
+![Delete Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/delete%20a%20product.jpg)  
+**Browser confirmation dialog before product deletion**  
+---
 
 ### 6. Edit Product Form
-![Edit Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/edit%20a%20product.jpg)
-**Edit interface showing existing product data ready for modification**
+![Edit Product](https://github.com/SRUJANKS99/product-management-app/raw/main/Images/edit%20a%20product.jpg)  
+**Edit interface showing existing product data ready for modification**  
+---
 
 
 
