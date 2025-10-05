@@ -495,7 +495,7 @@ This project was created for the Full Stack Developer internship assignment.
 
 ---
 
-## 📞 Contact developer
-emai- srujan.ks0903@gmail.com
-Number -7483183720
-
+## 📞 Contact Developer
+- **E-mail:** srujan.ks0903@gmail.com  
+- **Number:** 7483183720  
+- **LinkedIn:** [https://www.linkedin.com/in/ks-srujan-gowda-21ab3b2a3/](https://www.linkedin.com/in/ks-srujan-gowda-21ab3b2a3/)
